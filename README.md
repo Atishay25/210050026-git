@@ -19,7 +19,7 @@ Type the following command to compile and run the code -
 Pass the string that you want to give as input in the <arguement>
 
 ### My Solution to Q1
-1. Q1 -
+* Q1 -
     1. alias sizeOfFiles = "du -ah"
     2. alias numberOfFiles = "find . | wc -l"
 
