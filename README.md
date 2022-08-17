@@ -8,7 +8,7 @@
 This is repository is a part of an Inlab Assignment of **SSL course - CS251**. The assignment was about learning *Bash* and Version Control using *Git/Github*.
 The **Hash Function** is used for implementing a dictionary type Data Structure which maps its keys to their respective values. A Hash Function maps the input (which may be a string, integer, float or any other data type) to a certain integer which is then used as its key for dictionary. This kind of Hashing gives more secure, adjustable and quicker method of fetching data.
 The enhanced Hash function used here is -
-$$ h(s) = (\sum_{i=1}^n s[i-1]p^i)$$
+$$h(s) = \sum_{i=1}^n s[i-1]p^i$$
 And then took final key as h(s) % m.
 
 
