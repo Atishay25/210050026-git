@@ -1,0 +1,4 @@
+#ignoring a.out and .o files
+
+*.out
+*.o
